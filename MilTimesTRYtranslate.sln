@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MilTimesTRYtranslate", "MilTimesTRYtranslate\MilTimesTRYtranslate.pyproj", "{84F4065B-2CD0-469F-B105-7CB019258731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F4065B-2CD0-469F-B105-7CB019258731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F4065B-2CD0-469F-B105-7CB019258731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A3CE1C-5CA1-4BCB-AB82-AA1CDD7C8383}
+	EndGlobalSection
+EndGlobal
